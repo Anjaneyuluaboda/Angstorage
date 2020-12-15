@@ -1,7 +1,6 @@
 # Angstorage
 
-
-[![image](https://raw.githubusercontent.com/umagol/Angstorage/master/projects/angstoragetest/src/assets/logo.png)](https://github.com/umagol/Angstorage?tab=repositories)
+   <img src="https://raw.githubusercontent.com/umagol/Angstorage/master/projects/angstoragetest/src/assets/logo.png" width="200" height="200" style="margin-right:300px;" />
 
 AngStrorage is Angular Library (Package) for Using store small size of data on web browser in cookie storage, session storage and Local storage 
 AngStroage is also provide some another function link isset... using for check data is store or not. 
@@ -131,7 +130,6 @@ Add variable in your constructor for using hole file
   
   }
 
-ss
 
 
 ## Function
